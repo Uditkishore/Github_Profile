@@ -7,7 +7,7 @@
 
 🧠 I'm currently learning full-stack web developement ...
 
-👯‍♀️ I'm looking to collaborate on team as wel as open source ...
+👯‍♀️ I'm looking to collaborate on team as well as open source ...
 
 🤔 I'm looking for a right career where I can build amazing things ...
 
@@ -50,6 +50,5 @@
 - Add to cart 
 - Payment page
 - OTP generation 
-
 - Cross platform
  
