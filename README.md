@@ -34,17 +34,22 @@
  ## [Cloning of The Home Depot Website](https://friendly-swanson-b92bb2.netlify.app/)
  ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+-User authentication system on Sign-in/Sign-up 
+-Search based location feature 
+-Sorting option available. 
+-Opening and closing time feature. 
+-Product wishlist feature. 
+-Integrated Payment gateways. 
+
  
 
  ##  [Cloning Of Dineout website](https://affectionate-swirles-dc9e0e.netlify.app/)
  ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
+-Users can view the hotels in detail before booking a table Filtering option. 
+-Add to cart. 
+-Payment page. 
+-OTP generation 
+
 - Cross platform
  
