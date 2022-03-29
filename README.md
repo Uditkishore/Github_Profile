@@ -15,13 +15,8 @@
 
 #### ⚡️ Loves to go on an advanture...
 
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
+## 🛠 Skills
+Javascript, HTML, CSS, Node, Express, React, Redux, Bootstarp, Chakra UI...
 
 ## 🔗 You can visite
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/)
